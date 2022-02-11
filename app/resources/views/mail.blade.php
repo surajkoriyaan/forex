@@ -1,0 +1,1 @@
+<a href="{{url('/account-acvivate')}}/{{$email}}/{{$token}}" >click to verify your account and activate your account.</a>
